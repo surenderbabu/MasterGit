@@ -1,5 +1,0 @@
-# MasterGit
-
-heyyy
-
-practice
